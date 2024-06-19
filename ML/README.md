@@ -30,3 +30,7 @@
  * By analyzing the rules you can identify interesting relationships between items.we can look for rules with:
     1. high confidence
     2. lift greater than 3(meaning the two items probably appear more together)
+
+## Cohort Analysis
+* it focuses on understanding the behaviour of a user over time.It involves grouping users based on shared characteristics(eg sign up date) and also it will analyze their actions within the group.
+This helps to identify trends and patterns un user engagement,churn(user drop-off)purchase behaviour
